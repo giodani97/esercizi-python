@@ -10,3 +10,6 @@ for num in list:
         newlist.append(num)
 
 print(newlist)
+
+if __name__ == "__main__":
+    main()
